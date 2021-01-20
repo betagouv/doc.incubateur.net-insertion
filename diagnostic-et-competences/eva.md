@@ -27,5 +27,5 @@ Le **module de détection illettrisme** connait en particulier beaucoup de succ�
 
 ### Par où commencer ? 
 
-Vous souhaitez utiliser eva ou en savoir plus ? Il suffit de contacter Lauren : [lauren.michel@beta.gouv.fr](mailto:lauren.michel@beta.gouv.fr)
+Vous souhaitez utiliser eva ou en savoir plus ? Il suffit de contacter Gaëlle : [gaelle.ottan@beta.gouv.fr](mailto:gaelle.ottan@beta.gouv.fr)
 
