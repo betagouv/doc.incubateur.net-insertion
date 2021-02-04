@@ -14,7 +14,7 @@
   * [Clara](accompagner/aides-revenus/clara.md)
   * [Estime](accompagner/aides-revenus/estime.md)
 * [Démarches administratives](accompagner/blocages-administratifs/README.md)
-  * [DomiFa](accompagner/blocages-administratifs/domifa.md)
+  * [Domifa](accompagner/blocages-administratifs/domifa.md)
   * [Administration+](accompagner/blocages-administratifs/administration-+.md)
 * [Médiation numérique](accompagner/mediation-numerique/README.md)
   * [Solidarité numérique](accompagner/mediation-numerique/solidarite-numerique.md)

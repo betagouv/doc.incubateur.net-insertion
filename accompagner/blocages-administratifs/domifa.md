@@ -2,14 +2,14 @@
 description: Propulsé par l’Incubateur des Ministères Sociaux
 ---
 
-# DomiFa
+# Domifa
 
 ### Qu'est-ce que c'est ?
 
-DomiFa s'adresse aux organismes domiciliataires \(CCAS, CIAS, organismes agrées\) et leur permet de simplifier la gestion de la domiciliation des personnes sans domicile stable et de faciliter ainsi l’accès à leurs droits.
+Domifa s'adresse aux organismes domiciliataires \(CCAS, CIAS, organismes agrées\) et leur permet de simplifier la gestion de la domiciliation des personnes sans domicile stable et de faciliter ainsi l’accès à leurs droits.
 
 {% hint style="success" %}
-DomiFa compte 159 structures utilisatrices et près de 25 000 domiciliés \(septembre 2020\)
+Domifa compte plus de 280 structures utilisatrices et près de 50 000 domiciliés \(septembre 2020\)
 {% endhint %}
 
 ### Quels bénéfices pour la personne accompagnée ? 

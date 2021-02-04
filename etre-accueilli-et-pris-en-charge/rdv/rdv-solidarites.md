@@ -16,7 +16,7 @@ RDV Solidarités est un outil de prise de rendez-vous adapté aux services des s
 {% hint style="success" %}
 40% des usagers de RDV Solidarités fixent un RDV en autonomie dans les 72h après la première prise de contact.   
   
-Plus de [9 000 RDV](https://www.rdv-solidarites.fr/stats) ont déjà été gérés dans les départements d’expérimentation. 
+Plus de [70 000 RDV](https://www.rdv-solidarites.fr/stats) déjà planifiés, dans 15 conseils départementaux.
 {% endhint %}
 
 ### Quels bénéfices pour la personne accompagnée ? 

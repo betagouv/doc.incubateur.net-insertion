@@ -11,9 +11,7 @@ eva est une solution numérique qui permet la détection rapide de **l’illettr
 Pour qui ? Les personnes peu ou pas qualifiées et éloignées de l’emploi qui souhaitent valoriser leurs compétences. Pour les structures d’insertion, des maisons départementales d’action sociale, des missions Locales, de Pôle emploi, des SIAE ou de tout autre structure qui accompagne ce public.
 
 {% hint style="success" %}
-Près de 1 300 passations ont déjà eu lieu sur eva, dans une centaine de structures différentes. 
-
-Le **module de détection illettrisme** connait en particulier beaucoup de succès, avec près de 600 passations en quelques mois. 
+Près de **3 400 passations** ont déjà eu lieu sur eva, dans une centaine de structures différentes. 
 {% endhint %}
 
 ### Quels bénéfices pour la personne accompagnée ?

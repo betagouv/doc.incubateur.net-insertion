@@ -11,7 +11,7 @@ Diagoriente est une application numérique accompagnée qui propose aux jeunes d
 Le service s’adresse à tous les jeunes qui se posent des questions sur leur orientation, qu’ils soient scolarisés ou non, et en particulier aux jeunes qui cherchent à s’insérer professionnellement, accompagnés par les acteurs du monde de l’emploi \(Missions locales, Pôle emploi, Cap emploi, etc.\) 
 
 {% hint style="success" %}
-**13 000 jeunes** ont déjà utilisé Diagoriente, dans 150 missions locales
+**25 000 jeunes** ont déjà utilisé Diagoriente, dans 150 missions locales
 
 **85%** se sont déclarés satisfaits des pistes d’orientation proposées et **1 jeune sur 2** trouve sa première immersion en moins de 10 jours grâce à Diagoriente
 {% endhint %}
