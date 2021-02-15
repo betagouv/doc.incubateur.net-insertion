@@ -25,5 +25,5 @@ Près de **3 400 passations** ont déjà eu lieu sur eva, dans une centaine de s
 
 ### Par où commencer ? 
 
-Vous souhaitez utiliser eva ou en savoir plus ? Il suffit de contacter Lauren : [lauren.michel@beta.gouv.fr](mailto:lauren.michel@beta.gouv.fr)
+Vous souhaitez utiliser eva ou en savoir plus ? Il suffit de contacter Lauren : [gaelle.ottan@beta.gouv.fr](mailto:lauren.michel@beta.gouv.fr)
 
