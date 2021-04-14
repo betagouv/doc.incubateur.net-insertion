@@ -11,9 +11,9 @@ Afin de faciliter les **candidatures spontanées**, [La bonne boite](https://lab
 Le service propose également des outils et fiches pratiques pour aider le candidat à préparer sa candidature.
 
 {% hint style="success" %}
-Depuis son ouverture en décembre 2015 : **9 200 00** personnes ont utilisé La bonne boite.
+Depuis son ouverture en décembre 2015 : Près de **11 500 00** personnes ont utilisé La bonne boite.
 
-Depuis l'ajout du module de candidature en ligne en Septembre 2018 : **75 000** personnes ont trouvé du travail dans une entreprise consultée sur La bonne boite.
+Depuis l'ajout du module de candidature en ligne en Septembre 2018 : Près de **100 000** personnes ont trouvé du travail dans une entreprise consultée sur La bonne boite.
 
 _Chiffres au 01/09/2020_
 {% endhint %}
